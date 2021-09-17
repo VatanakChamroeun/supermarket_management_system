@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1594812359 source:c:\users\windows\desktop\supermarket management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1594815460 source:c:\users\windows\desktop\supermarket_management_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
